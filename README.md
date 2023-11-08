@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juanita Solórzano Salazar</h1>
 <h3 align="center">Software Developer👩‍💻 Engineering Student</h3>
-
+ <img src="https://api.backgroundremoverai.com/static/downloads/1059917d3f6e4355bf0d528a5751a10f/download20231103130552-removebg-preview.png" align="right">
 - 🔭 I’m currently working on **web page using Flask and HTML**
 
 - 💬 Ask me about **hml,css,js,php,python,java,sql,ruby,flask**
@@ -8,6 +8,8 @@
 - 📫 How to reach me **juanitasolorzano85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
