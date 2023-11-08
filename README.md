@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Juanita Solórzano Salazar</h1>
+<h1 align="center">
+  <span style="background-color: #3498db; color: white; padding: 10px; border-radius: 10px;">Hi 👋, I'm Juanita Solórzano Salazar</span>
+</h1>
 <h3 align="center">Software Developer👩‍💻 Engineering Student</h3>
  <img src="https://api.backgroundremoverai.com/static/downloads/1059917d3f6e4355bf0d528a5751a10f/download20231103130552-removebg-preview.png" align="right" height="300px">
 - 🔭 I’m currently working on **web page using Flask and HTML**
