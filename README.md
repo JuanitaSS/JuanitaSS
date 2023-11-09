@@ -5,7 +5,7 @@
  <img src="https://i.ibb.co/MhM45jc/fotor-20231108144529.png" align="right" height="300px">
 - 🔭 I’m currently working on **web page using Flask and HTML**
 
-- 💬 Ask me about **hml,css,js,php,python,java,sql,ruby,flask**
+- 💬 Ask me about **html,css,js,php,python,java,sql,ruby,flask**
 
 - 📫 How to reach me **juanitasolorzano85@gmail.com**
 
